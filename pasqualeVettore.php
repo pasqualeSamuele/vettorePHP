@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Quadri</title>
+<title>Profeti</title>
 </head>
 <body>
 <?php
